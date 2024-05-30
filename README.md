@@ -1,13 +1,8 @@
-# AttifyOS v3.0
+# AttifyOS v4.0
 
-AttifyOS is a distro intended to help you perform security assessment and penetration testing of Internet of Things (IoT) devices. It saves you a lot of time by providing a pre-configured environment with all the necessary tools loaded. The new version is based on Ubuntu 18.04 64-Bit - that also means that you'll receive updates for this version till April 2023.
+AttifyOS is a distro intended to help you perform security assessment and penetration testing of Internet of Things (IoT) devices. It saves you a lot of time by providing a pre-configured environment with all the necessary tools loaded. The new version is based on Ubuntu 20.00 64-Bit
 
 **Disclaimer** - Make sure you only tests the target for which you have proper authorization of. You hold all responsibilities of what you decide to do with it. 
-
-### Download Links 
-
-Google Drive - [https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UNjx-UmKt3](https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UNjx-UmKt3 "https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UNjx-UmKt3")
-
 
 
 ### Tools Included 
@@ -55,15 +50,6 @@ Google Drive - [https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UN
 ### Credentials 
 
 `iot` : `attify` 
-
-### How does it look like 
-
-
-![Attify OS Screenshot 1](images/attifyos-home.png)
-![Attify OS Screenshot 2](images/attifyos-fish-autocomplete.png)
-![Attify OS List of tools](images/attifyos-tools.png)
-![Attify OS Screenshot 3](images/attifyos-bettercap.png)
-![Attify OS Screenshot 4](images/attifyos-inspectrum.png)
 
 
 
