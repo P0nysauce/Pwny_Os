@@ -52,6 +52,10 @@ AttifyOS is a distro intended to help you perform security assessment and penetr
 `iot` : `attify` 
 
 
+### Download Link
+
+https://drive.google.com/file/d/1xtSr-1ITI-r63J0588UzNMB4hLVq5iqQ/view?usp=sharing
+
 
 ### Credits 
 
